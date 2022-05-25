@@ -1,1 +1,1 @@
-# digwo2
+# Digitale workshop 2
